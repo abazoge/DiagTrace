@@ -1,0 +1,36 @@
+Score	Model	Method	EN Value [95% CI]	EN Interpretation	FR Value [95% CI]	FR Interpretation
+Overall score (0-18)	o3	ICC	0.22 [0.09, 0.35]	Poor	0.15 [0.04, 0.26]	Poor
+Overall score (0-18)	DeepSeek-R1	ICC	0.37 [0.22, 0.50]	Poor	0.40 [0.22, 0.54]	Poor
+Overall score (0-18)	GPT-4	ICC	0.31 [0.17, 0.45]	Poor	0.52 [0.39, 0.63]	Fair
+Overall score (0-18)	Llama-405B	ICC	0.61 [0.49, 0.70]	Good	0.56 [0.44, 0.65]	Fair
+Overall score (0-18)	BioMistral	ICC	0.82 [0.76, 0.86]	Excellent	0.84 [0.78, 0.88]	Excellent
+Final diagnosis (0-3)	o3	Weighted κ	0.38 [0.20, 0.54]	Fair	0.32 [0.12, 0.51]	Fair
+Final diagnosis (0-3)	DeepSeek-R1	Weighted κ	0.56 [0.39, 0.70]	Moderate	0.62 [0.47, 0.75]	Substantial
+Final diagnosis (0-3)	GPT-4	Weighted κ	0.26 [0.13, 0.40]	Fair	0.73 [0.62, 0.82]	Substantial
+Final diagnosis (0-3)	Llama-405B	Weighted κ	0.73 [0.62, 0.81]	Substantial	0.71 [0.61, 0.80]	Substantial
+Final diagnosis (0-3)	BioMistral	Weighted κ	0.89 [0.84, 0.93]	Almost perfect	0.92 [0.87, 0.95]	Almost perfect
+Internal validity (0-5)	o3	Weighted κ	-0.05 [-0.11, 0.03]	Poor	-0.04 [-0.17, 0.09]	Poor
+Internal validity (0-5)	DeepSeek-R1	Weighted κ	0.08 [-0.05, 0.22]	Slight	0.24 [0.03, 0.41]	Fair
+Internal validity (0-5)	GPT-4	Weighted κ	0.25 [0.05, 0.44]	Fair	0.25 [0.08, 0.42]	Fair
+Internal validity (0-5)	Llama-405B	Weighted κ	0.29 [0.08, 0.46]	Fair	0.26 [0.11, 0.41]	Fair
+Internal validity (0-5)	BioMistral	Weighted κ	0.62 [0.51, 0.71]	Substantial	0.55 [0.43, 0.65]	Moderate
+External validity (0-3)	o3	Weighted κ	0.27 [-0.02, 0.60]	Fair	-0.06 [-0.09, -0.03]	Poor
+External validity (0-3)	DeepSeek-R1	Weighted κ	0.10 [-0.08, 0.30]	Slight	0.12 [-0.06, 0.31]	Slight
+External validity (0-3)	GPT-4	Weighted κ	0.06 [-0.08, 0.22]	Slight	0.11 [-0.03, 0.26]	Slight
+External validity (0-3)	Llama-405B	Weighted κ	0.29 [0.09, 0.47]	Fair	0.05 [-0.08, 0.18]	Slight
+External validity (0-3)	BioMistral	Weighted κ	0.39 [0.31, 0.46]	Fair	0.28 [0.20, 0.35]	Fair
+Differential diagnosis (0-1)	o3	κ	-0.02 [-0.04, 0.00]	Poor	0.00 [0.00, 0.00]	Slight
+Differential diagnosis (0-1)	DeepSeek-R1	κ	0.05 [-0.04, 0.13]	Slight	0.10 [0.03, 0.18]	Slight
+Differential diagnosis (0-1)	GPT-4	κ	0.05 [-0.09, 0.20]	Slight	0.32 [0.17, 0.45]	Fair
+Differential diagnosis (0-1)	Llama-405B	κ	0.15 [-0.01, 0.31]	Slight	0.23 [0.08, 0.38]	Fair
+Differential diagnosis (0-1)	BioMistral	κ	0.10 [-0.06, 0.28]	Slight	0.25 [0.04, 0.46]	Fair
+Logical structure (0-4)	o3	Weighted κ	0.11 [0.03, 0.21]	Slight	0.15 [0.03, 0.27]	Slight
+Logical structure (0-4)	DeepSeek-R1	Weighted κ	0.16 [0.03, 0.30]	Slight	0.09 [-0.02, 0.20]	Slight
+Logical structure (0-4)	GPT-4	Weighted κ	0.11 [-0.03, 0.26]	Slight	0.21 [0.09, 0.33]	Fair
+Logical structure (0-4)	Llama-405B	Weighted κ	0.27 [0.13, 0.41]	Fair	0.23 [0.10, 0.36]	Fair
+Logical structure (0-4)	BioMistral	Weighted κ	0.41 [0.32, 0.50]	Moderate	0.47 [0.37, 0.56]	Moderate
+Expression (0-2)	o3	Weighted κ	0.00 [0.00, 0.00]	Slight	0.13 [-0.03, 0.33]	Slight
+Expression (0-2)	DeepSeek-R1	Weighted κ	-0.01 [-0.02, 0.00]	Poor	-0.03 [-0.05, -0.01]	Poor
+Expression (0-2)	GPT-4	Weighted κ	-0.01 [-0.03, 0.00]	Poor	-0.02 [-0.05, 0.00]	Poor
+Expression (0-2)	Llama-405B	Weighted κ	0.00 [0.00, 0.00]	Slight	0.12 [-0.06, 0.34]	Slight
+Expression (0-2)	BioMistral	Weighted κ	0.82 [0.71, 0.91]	Almost perfect	0.53 [0.40, 0.65]	Moderate

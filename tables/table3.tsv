@@ -1,0 +1,81 @@
+Medical specialty	Model	n	EN median [IQR]	% max EN	FR median [IQR]	% max FR
+Médecine générale	o3	64	18.00 [17.00;18.00]	64.1%	18.00 [17.00;18.00]	57.8%
+Médecine générale	DeepSeek-R1	64	17.00 [15.75;18.00]	28.1%	17.00 [15.75;18.00]	28.1%
+Médecine générale	GPT-4	64	17.00 [16.00;18.00]	42.2%	16.50 [15.00;18.00]	26.6%
+Médecine générale	Llama-405B	64	16.00 [15.00;18.00]	31.2%	15.00 [13.00;17.00]	15.6%
+Médecine générale	BioMistral	64	9.00 [7.00;11.25]	0.0%	8.00 [7.00;10.00]	0.0%
+Maladies infectieuses et tropicales	o3	34	18.00 [16.25;18.00]	55.9%	18.00 [16.25;18.00]	67.6%
+Maladies infectieuses et tropicales	DeepSeek-R1	34	16.00 [15.00;18.00]	29.4%	16.00 [15.25;17.00]	14.7%
+Maladies infectieuses et tropicales	GPT-4	34	17.00 [15.00;18.00]	29.4%	15.50 [14.00;17.00]	14.7%
+Maladies infectieuses et tropicales	Llama-405B	34	16.00 [15.00;18.00]	35.3%	16.00 [15.00;17.00]	14.7%
+Maladies infectieuses et tropicales	BioMistral	34	9.00 [7.00;11.00]	0.0%	7.00 [7.00;9.00]	0.0%
+Hépato-gastro-entérologie	o3	30	18.00 [17.00;18.00]	66.7%	18.00 [17.00;18.00]	56.7%
+Hépato-gastro-entérologie	DeepSeek-R1	30	16.00 [15.00;17.00]	16.7%	16.00 [15.00;17.00]	6.7%
+Hépato-gastro-entérologie	GPT-4	30	16.00 [15.25;18.00]	30.0%	17.00 [15.00;18.00]	30.0%
+Hépato-gastro-entérologie	Llama-405B	30	17.00 [15.00;18.00]	46.7%	16.50 [14.25;17.00]	20.0%
+Hépato-gastro-entérologie	BioMistral	30	9.50 [7.00;11.00]	0.0%	8.00 [7.00;9.75]	0.0%
+Médecine cardio-vasculaire	o3	24	18.00 [16.00;18.00]	54.2%	18.00 [16.75;18.00]	58.3%
+Médecine cardio-vasculaire	DeepSeek-R1	24	16.00 [16.00;18.00]	33.3%	17.00 [15.75;18.00]	37.5%
+Médecine cardio-vasculaire	GPT-4	24	17.00 [15.00;18.00]	37.5%	17.00 [15.00;18.00]	33.3%
+Médecine cardio-vasculaire	Llama-405B	24	17.00 [14.00;17.00]	20.8%	15.00 [14.00;17.00]	20.8%
+Médecine cardio-vasculaire	BioMistral	24	9.50 [7.50;11.00]	0.0%	8.00 [6.75;9.25]	0.0%
+Neurologie	o3	22	16.50 [16.00;18.00]	40.9%	18.00 [16.00;18.00]	54.5%
+Neurologie	DeepSeek-R1	22	16.00 [15.00;17.00]	18.2%	16.00 [15.00;17.00]	13.6%
+Neurologie	GPT-4	22	17.00 [15.00;18.00]	36.4%	16.00 [15.25;17.00]	22.7%
+Neurologie	Llama-405B	22	17.00 [12.75;18.00]	31.8%	15.50 [14.00;17.00]	0.0%
+Neurologie	BioMistral	22	8.50 [7.00;10.75]	0.0%	9.00 [7.00;10.00]	0.0%
+Pneumologie	o3	20	17.50 [15.75;18.00]	50.0%	17.50 [15.00;18.00]	50.0%
+Pneumologie	DeepSeek-R1	20	16.00 [15.00;17.00]	20.0%	16.00 [15.00;17.00]	20.0%
+Pneumologie	GPT-4	20	18.00 [16.75;18.00]	60.0%	17.00 [16.00;17.00]	20.0%
+Pneumologie	Llama-405B	20	17.00 [15.75;18.00]	45.0%	17.00 [16.00;18.00]	45.0%
+Pneumologie	BioMistral	20	9.50 [0.00;13.00]	5.0%	10.00 [6.75;12.50]	0.0%
+Urgence-Réanimation	o3	20	18.00 [16.00;18.00]	55.0%	18.00 [16.00;18.00]	65.0%
+Urgence-Réanimation	DeepSeek-R1	20	17.00 [16.00;18.00]	35.0%	16.00 [15.00;17.25]	25.0%
+Urgence-Réanimation	GPT-4	20	16.50 [16.00;17.25]	25.0%	14.50 [14.00;16.25]	20.0%
+Urgence-Réanimation	Llama-405B	20	16.50 [15.00;18.00]	30.0%	15.00 [11.00;17.00]	10.0%
+Urgence-Réanimation	BioMistral	20	3.00 [0.00;9.00]	0.0%	8.00 [6.75;9.00]	0.0%
+Endocrinologie-diabétologie-nutrition	o3	18	17.50 [17.00;18.00]	50.0%	17.00 [16.25;18.00]	38.9%
+Endocrinologie-diabétologie-nutrition	DeepSeek-R1	18	16.00 [16.00;17.75]	27.8%	16.00 [14.00;16.00]	16.7%
+Endocrinologie-diabétologie-nutrition	GPT-4	18	16.50 [15.00;17.00]	22.2%	16.50 [14.00;17.00]	11.1%
+Endocrinologie-diabétologie-nutrition	Llama-405B	18	17.00 [16.00;18.00]	33.3%	14.00 [11.50;16.75]	5.6%
+Endocrinologie-diabétologie-nutrition	BioMistral	18	7.00 [6.25;10.00]	0.0%	7.00 [5.00;9.00]	0.0%
+Gynécologie	o3	18	18.00 [16.00;18.00]	61.1%	18.00 [17.00;18.00]	66.7%
+Gynécologie	DeepSeek-R1	18	18.00 [16.25;18.00]	55.6%	16.50 [15.25;18.00]	33.3%
+Gynécologie	GPT-4	18	17.00 [16.00;17.75]	27.8%	16.50 [15.00;17.00]	22.2%
+Gynécologie	Llama-405B	18	16.00 [14.50;17.00]	11.1%	16.50 [14.25;17.00]	11.1%
+Gynécologie	BioMistral	18	9.50 [8.00;12.75]	0.0%	9.00 [5.50;10.00]	0.0%
+Onco-Hématologie	o3	18	17.50 [16.00;18.00]	50.0%	17.00 [16.00;18.00]	38.9%
+Onco-Hématologie	DeepSeek-R1	18	17.00 [16.00;18.00]	33.3%	15.50 [13.25;16.00]	11.1%
+Onco-Hématologie	GPT-4	18	17.00 [17.00;18.00]	38.9%	16.50 [15.25;17.75]	27.8%
+Onco-Hématologie	Llama-405B	18	17.00 [13.25;18.00]	38.9%	16.00 [11.25;17.00]	11.1%
+Onco-Hématologie	BioMistral	18	8.00 [7.25;10.00]	0.0%	7.00 [4.25;8.00]	0.0%
+Rhumatologie	o3	18	18.00 [17.25;18.00]	72.2%	18.00 [18.00;18.00]	77.8%
+Rhumatologie	DeepSeek-R1	18	17.00 [16.00;18.00]	33.3%	14.50 [13.25;16.00]	11.1%
+Rhumatologie	GPT-4	18	17.00 [16.00;17.00]	22.2%	15.50 [14.25;17.00]	0.0%
+Rhumatologie	Llama-405B	18	16.00 [15.00;17.00]	22.2%	14.50 [13.00;16.75]	11.1%
+Rhumatologie	BioMistral	18	7.00 [7.00;9.00]	0.0%	5.00 [0.00;8.75]	0.0%
+Urologie-Néphrologie	o3	18	18.00 [18.00;18.00]	77.8%	17.00 [15.25;18.00]	38.9%
+Urologie-Néphrologie	DeepSeek-R1	18	16.00 [15.00;17.75]	27.8%	14.50 [14.00;16.00]	16.7%
+Urologie-Néphrologie	GPT-4	18	17.00 [15.00;18.00]	38.9%	15.00 [11.25;16.75]	16.7%
+Urologie-Néphrologie	Llama-405B	18	16.00 [14.00;17.00]	16.7%	14.00 [12.25;16.75]	11.1%
+Urologie-Néphrologie	BioMistral	18	9.50 [0.00;11.75]	0.0%	6.50 [0.00;8.75]	0.0%
+Psychiatrie	o3	16	17.00 [16.00;18.00]	43.8%	17.50 [17.00;18.00]	50.0%
+Psychiatrie	DeepSeek-R1	16	16.00 [16.00;18.00]	31.2%	16.00 [15.00;16.25]	18.8%
+Psychiatrie	GPT-4	16	16.00 [14.00;17.25]	25.0%	15.00 [14.00;16.25]	6.2%
+Psychiatrie	Llama-405B	16	16.00 [15.00;16.00]	12.5%	16.00 [15.00;17.00]	6.2%
+Psychiatrie	BioMistral	16	4.50 [0.00;11.00]	0.0%	9.50 [8.00;10.25]	0.0%
+Pédiatrie	o3	14	18.00 [16.25;18.00]	64.3%	18.00 [18.00;18.00]	78.6%
+Pédiatrie	DeepSeek-R1	14	16.00 [16.00;17.00]	21.4%	15.50 [15.00;16.00]	14.3%
+Pédiatrie	GPT-4	14	17.00 [14.25;17.75]	28.6%	17.00 [14.00;18.00]	42.9%
+Pédiatrie	Llama-405B	14	16.00 [15.00;18.00]	42.9%	15.00 [13.00;17.00]	14.3%
+Pédiatrie	BioMistral	14	10.00 [1.75;11.50]	14.3%	0.00 [0.00;5.25]	0.0%
+Tête et cou	o3	14	18.00 [18.00;18.00]	78.6%	18.00 [17.00;18.00]	64.3%
+Tête et cou	DeepSeek-R1	14	15.00 [11.75;16.75]	14.3%	16.00 [11.25;16.75]	14.3%
+Tête et cou	GPT-4	14	17.50 [14.50;18.00]	50.0%	14.50 [11.25;17.00]	7.1%
+Tête et cou	Llama-405B	14	17.00 [14.50;18.00]	35.7%	15.50 [13.50;16.75]	21.4%
+Tête et cou	BioMistral	14	8.00 [7.00;12.50]	0.0%	7.00 [6.25;8.75]	0.0%
+Médecine interne	o3	12	17.50 [16.00;18.00]	50.0%	17.50 [16.50;18.00]	50.0%
+Médecine interne	DeepSeek-R1	12	16.50 [15.00;18.00]	33.3%	16.50 [16.00;17.25]	25.0%
+Médecine interne	GPT-4	12	17.50 [16.50;18.00]	50.0%	16.50 [14.50;18.00]	33.3%
+Médecine interne	Llama-405B	12	17.00 [15.75;18.00]	33.3%	14.50 [12.75;17.00]	8.3%
+Médecine interne	BioMistral	12	3.00 [0.00;8.00]	0.0%	7.00 [6.50;9.00]	0.0%

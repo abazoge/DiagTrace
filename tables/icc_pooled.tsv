@@ -1,0 +1,8 @@
+Score	Method	Mean	Min	Max	Interpretation
+Overall score (0-18)	ICC	0.479	0.147	0.840	Fair
+Final diagnosis (0-3)	Weighted κ	0.610	0.255	0.916	Substantial
+Internal validity (0-5)	Weighted κ	0.244	-0.047	0.618	Fair
+External validity (0-3)	Weighted κ	0.159	-0.061	0.385	Slight
+Differential diagnosis (0-1)	κ	0.123	-0.015	0.317	Slight
+Logical structure (0-4)	Weighted κ	0.220	0.091	0.470	Fair
+Expression (0-2)	Weighted κ	0.153	-0.027	0.818	Slight
